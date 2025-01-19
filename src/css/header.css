@@ -1,6 +1,12 @@
 .header {
   padding: 20px 0;
+  text-align: center;
 }
+
+.nav-logo-icon {
+  background-color: #fff;
+}
+
 .nav {
   display: flex;
   justify-content: space-between;
